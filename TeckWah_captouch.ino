@@ -6,7 +6,7 @@
  * search for AT42QT1010 wiring and logic diagrams.
  *
  *
- * Last updated: 23 Jan 2016
+ * Last updated: 29 Jan 2016
  */
 
 //USER DEFINED SETTINGS
